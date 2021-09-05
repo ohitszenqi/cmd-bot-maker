@@ -1,4 +1,4 @@
-<h3 align: "center">Get Started</h3>
+<h3 align="center">Get Started</h3>
 ![a](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_tN7ff8XXM1aq7DNXwapdzg_nt6Bt9eEwyg&usqp=CAU)
 ### Installation
 ```bash
