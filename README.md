@@ -1,7 +1,7 @@
 # Get Started
 ### Installation
 ```bash
-apt install git
+pkg install git
 ```
 ```bash
 git clone https://github.com/ohitszenqi/cmd-bot-maker/
